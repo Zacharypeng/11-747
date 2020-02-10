@@ -1,0 +1,77 @@
+Batch: 800, Loss: 1.096909523010254
+Batch: 1600, Loss: 0.9333034753799438
+Batch: 2400, Loss: 0.8072327971458435
+Batch: 3200, Loss: 0.939659833908081
+*** Epoch: 1, Training Loss: 0.970, Time: 0.0min ***
+*** Epoch: 1, Validation Loss: 0.643, Accuracy: 80.09331259720062% ***
+
+@@@ Saving Best Model with Accuracy: 80.09331259720062% @@@
+
+Batch: 800, Loss: 0.8009935617446899
+Batch: 1600, Loss: 0.9709867238998413
+Batch: 2400, Loss: 0.7525368928909302
+Batch: 3200, Loss: 0.767711341381073
+*** Epoch: 2, Training Loss: 0.877, Time: 0.0min ***
+*** Epoch: 2, Validation Loss: 0.654, Accuracy: 80.7153965785381% ***
+
+@@@ Saving Best Model with Accuracy: 80.7153965785381% @@@
+
+Batch: 800, Loss: 0.8556761145591736
+Batch: 1600, Loss: 1.0115137100219727
+Batch: 2400, Loss: 1.055436372756958
+Batch: 3200, Loss: 0.7778568267822266
+*** Epoch: 3, Training Loss: 0.855, Time: 0.0min ***
+*** Epoch: 3, Validation Loss: 0.651, Accuracy: 80.40435458786936% ***
+
+Batch: 800, Loss: 0.6529926657676697
+Batch: 1600, Loss: 0.742705225944519
+Batch: 2400, Loss: 0.889812171459198
+Batch: 3200, Loss: 0.8443694114685059
+*** Epoch: 4, Training Loss: 0.840, Time: 0.0min ***
+*** Epoch: 4, Validation Loss: 0.629, Accuracy: 81.80404354587868% ***
+
+@@@ Saving Best Model with Accuracy: 81.80404354587868% @@@
+
+Batch: 800, Loss: 1.1851726770401
+Batch: 1600, Loss: 0.9477897882461548
+Batch: 2400, Loss: 0.694995105266571
+Batch: 3200, Loss: 0.8350895047187805
+*** Epoch: 5, Training Loss: 0.828, Time: 0.0min ***
+*** Epoch: 5, Validation Loss: 0.613, Accuracy: 81.95956454121306% ***
+
+@@@ Saving Best Model with Accuracy: 81.95956454121306% @@@
+
+Batch: 800, Loss: 0.6721290946006775
+Batch: 1600, Loss: 0.9734939336776733
+Batch: 2400, Loss: 1.279260516166687
+Batch: 3200, Loss: 0.8602052927017212
+*** Epoch: 6, Training Loss: 0.822, Time: 0.0min ***
+*** Epoch: 6, Validation Loss: 0.624, Accuracy: 80.248833592535% ***
+
+Batch: 800, Loss: 0.8013710975646973
+Batch: 1600, Loss: 0.8805171847343445
+Batch: 2400, Loss: 0.7877519130706787
+Batch: 3200, Loss: 0.8848075270652771
+*** Epoch: 7, Training Loss: 0.815, Time: 0.0min ***
+*** Epoch: 7, Validation Loss: 0.619, Accuracy: 81.33748055987559% ***
+
+Batch: 800, Loss: 0.7356709837913513
+Batch: 1600, Loss: 0.7813159823417664
+Batch: 2400, Loss: 0.7972850799560547
+Batch: 3200, Loss: 0.6665205359458923
+*** Epoch: 8, Training Loss: 0.812, Time: 0.0min ***
+*** Epoch: 8, Validation Loss: 0.628, Accuracy: 79.62674961119751% ***
+
+Batch: 800, Loss: 0.8093867897987366
+Batch: 1600, Loss: 0.7774925827980042
+Batch: 2400, Loss: 0.9468199014663696
+Batch: 3200, Loss: 0.9185420274734497
+*** Epoch: 9, Training Loss: 0.807, Time: 0.0min ***
+*** Epoch: 9, Validation Loss: 0.610, Accuracy: 80.55987558320373% ***
+
+Batch: 800, Loss: 0.6332382559776306
+Batch: 1600, Loss: 0.42434051632881165
+Batch: 2400, Loss: 0.8500979542732239
+Batch: 3200, Loss: 0.9727868437767029
+*** Epoch: 10, Training Loss: 0.803, Time: 0.0min ***
+*** Epoch: 10, Validation Loss: 0.597, Accuracy: 80.55987558320373% ***
