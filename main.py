@@ -48,7 +48,7 @@ val_data = TabularDataset(path='topicclass/topicclass_valid.csv',
                           skip_header=True,
                           fields=tv_data_fields)
 # pdb.set_trace()
-TEXT.build_vocab(train_data, val_data, vectors='fasttext.en.300d')
+TEXT.build_vocab(train_data, val_data)
 
 batch_size = (256, 256)
 train_iter, val_iter = BucketIterator.splits((train_data, val_data), batch_sizes=batch_size, device=DEVICE,
